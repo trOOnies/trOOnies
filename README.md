@@ -1,16 +1,16 @@
 Hello there! I'm Facundo Scasso, welcome to my GitHub page.
 - 🌎 I'm a 26 year-old Data Scientist from Argentina [he/him]
-- 👨‍🎓 I am actually an Industrial Engineer. I graduated from Buenos Aires' ITBA (5-year-long degree).
+- 👨‍🎓 I am actually an [Industrial Engineer](https://www.itba.edu.ar/en/undergraduate-courses/industrial-engineering/). I graduated from Buenos Aires' [ITBA](https://www.itba.edu.ar/en/) (5-year-long degree).
 - 🐍 I work mainly with Python. I also use SQL, and I regularly use AWS SageMaker. I usually use libraries such as FastAPI, sklearn, PyTesseract and spaCy.
-- 💼 Work experience
+- 💼 Work experience (in chronological order)
   - Accenture: 2 years in the Business Data Science area
-  - Santander Technology: 2+ year in the AI+MLOps area (present)
-- 📚 I'm currenly learning Frond-End at Buenos Aires' online course 'Codo a Codo'. I'm also looking to study Deep Learning in the coming months.
-- 🎌 I am a native Spanish speaker, but I also know other languages:
+  - Santander Technology: 2.5 years in ML areas, with focus on Information Extraction from Documents
+- 📚 I like to learn a wide range of topics on ML, but I sometimes like to learn other things like front-end or (actual) languages.
+- 🎌 I am a native Spanish speaker, but I also speak other languages:
   - (Certified) CAE C1 British English
   - (Certified) HSK 2.0 Level 3 (HSK3) Mandarin Chinese
-  - I also study Italian as a hobby
+  - Italian A1 level completed
 
 You can find more about me on my <a href='https://www.linkedin.com/in/facundo-martin-scasso/'>Linkedin</a> profile.
 
-*(Last updated: September 2022.)*
+*(Last updated: May 2023.)*
