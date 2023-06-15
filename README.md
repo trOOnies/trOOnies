@@ -1,4 +1,4 @@
-Hello there! I'm Facundo Scasso, welcome to my GitHub page.
+Hello there! I'm Facundo, welcome to my GitHub page.
 - 🌎 I'm a 26 year-old Data Scientist from Argentina [he/him]
 - 👨‍🎓 I am actually an [Industrial Engineer](https://www.itba.edu.ar/en/undergraduate-courses/industrial-engineering/). I graduated from Buenos Aires' [ITBA](https://www.itba.edu.ar/en/) (5-year-long degree).
 - 🐍 I work mainly with Python. I also use SQL, and I regularly use AWS SageMaker. I usually use libraries such as FastAPI, sklearn, PyTesseract and spaCy.
