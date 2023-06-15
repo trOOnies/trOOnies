@@ -11,6 +11,6 @@ Hello there! I'm Facundo, welcome to my GitHub page.
   - (Certified) HSK 2.0 Level 3 (HSK3) Mandarin Chinese
   - Italian A1 level completed
 
-You can find more about me on my <a href='https://www.linkedin.com/in/facundo-martin-scasso/'>Linkedin</a> profile.
+If you are interested in connecting via LinkedIn, send me a PM!
 
 *(Last updated: May 2023.)*
