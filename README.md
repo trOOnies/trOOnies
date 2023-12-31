@@ -1,10 +1,12 @@
+*(Last updated: December 2023.)*
+
 Hello there! I'm Facundo, welcome to my GitHub page.
 - 🌎 I'm a 27 year-old Data Scientist from Argentina [he/him]
 - 👨‍🎓 I am actually an [Industrial Engineer](https://www.itba.edu.ar/en/undergraduate-courses/industrial-engineering/) with a greater orientation on Business than a typical IE degree. I graduated from Buenos Aires' [ITBA](https://www.itba.edu.ar/en/) (5-year-long degree, equivalent to a BEng & MEng).
 - 🐍 I code in Python. I regularly use Google Cloud Platform, mainly the services that Vertex AI provides, and BigQuery. I also worked with AWS SageMaker. I usually use libraries such as FastAPI, sklearn, PyTesseract, optuna and spaCy.
 - 🔨 Other tools I used: Docker, MLflow, Dagster, Airbyte+dbt, k8s
 - 💼 Work experience (more recent first)
-  - La Nacion Media Group (current): I develop and deploy different ML models for the MG website, and built the code and service base we use for MLOps from the ground up on GCP
+  - La Nacion Media Group (current): I develop and deploy different ML models for the MG website, and built the code and service base we use for MLOps from the ground up on GCP. I regularly take a proactive approach on the future projects' pipeline and hiring interviews.
   - Santander (Bank) Technology: 2.5 years in ML areas, with focus on Information Extraction from Documents
   - Accenture: 2 years in the Business Data Science area, where I participated on different projects every 3 to 5 months
 - 📚 I like to learn a wide range of topics on ML, but I sometimes like to learn other things like front-end or -actual- languages.
@@ -17,8 +19,10 @@ If you are interested in connecting via LinkedIn, send me a PM!
 
 ---
 
-Projects on GitHub:
-...
+Course projects on GitHub:
+- 2023 [Recommender System](https://github.com/trOOnies/recommender_system) (ongoing): Project for ITBA's MLOps course, targeted at Data Scientists that already have DS experience but less in MLOps.
+- 2022 [Fantastic Warriors](https://github.com/trOOnies/fantasticwarriors): Website MVP I coded for Codo a Codo's Python Full Stack course.
 
-
-*(Last updated: December 2023.)*
+Personal projects on GitHub:
+- 2023 [DBD Info Extraction](https://github.com/trOOnies/dbd_info_extraction) (updated): Info extraction tool for Dead By Daylight's end card of a finished match.
+- 2023 [Persephone Books](https://github.com/trOOnies/persephone_books) (updated): Book inventory tool I coded for my wife's book collection. 📚
