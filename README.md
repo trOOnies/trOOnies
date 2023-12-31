@@ -1,17 +1,24 @@
 Hello there! I'm Facundo, welcome to my GitHub page.
 - 🌎 I'm a 27 year-old Data Scientist from Argentina [he/him]
-- 👨‍🎓 I am actually an [Industrial Engineer](https://www.itba.edu.ar/en/undergraduate-courses/industrial-engineering/). I graduated from Buenos Aires' [ITBA](https://www.itba.edu.ar/en/) (5-year-long degree, equivalent to a BEng & MEng).
-- 🐍 I work mainly with Python. I also use SQL, and I regularly use AWS SageMaker and Google BigQuery. I usually use libraries such as FastAPI, sklearn, PyTesseract and spaCy.
-- 💼 Work experience (in reverse chronological order)
-  - La Nacion Media Group (current): I develop and deploy different ML models for the MG website
+- 👨‍🎓 I am actually an [Industrial Engineer](https://www.itba.edu.ar/en/undergraduate-courses/industrial-engineering/) with a greater orientation on Business than a typical IE degree. I graduated from Buenos Aires' [ITBA](https://www.itba.edu.ar/en/) (5-year-long degree, equivalent to a BEng & MEng).
+- 🐍 I code in Python. I regularly use Google Cloud Platform, mainly the services that Vertex AI provides, and BigQuery. I also worked with AWS SageMaker. I usually use libraries such as FastAPI, sklearn, PyTesseract, optuna and spaCy.
+- 🔨 Other tools I used: Docker, MLflow, Dagster, Airbyte+dbt, k8s
+- 💼 Work experience (more recent first)
+  - La Nacion Media Group (current): I develop and deploy different ML models for the MG website, and built the code and service base we use for MLOps from the ground up on GCP
   - Santander (Bank) Technology: 2.5 years in ML areas, with focus on Information Extraction from Documents
-  - Accenture: 2 years in the Business Data Science area
-- 📚 I like to learn a wide range of topics on ML, but I sometimes like to learn other things like front-end or (actual) languages.
+  - Accenture: 2 years in the Business Data Science area, where I participated on different projects every 3 to 5 months
+- 📚 I like to learn a wide range of topics on ML, but I sometimes like to learn other things like front-end or -actual- languages.
 - 🎌 I am a native Spanish speaker, but I also speak other languages:
-  - (Certified) British English C1 - C.A.E.
+  - (Certified) British English CEFR C1 - C.A.E.
   - (Certified) Mandarin Chinese - HSK3 (version 2.0)
-  - (Ongoing) Italian A2-equivalent
+  - (Ongoing) Italian CEFR A2-equivalent
 
 If you are interested in connecting via LinkedIn, send me a PM!
 
-*(Last updated: September 2023.)*
+---
+
+Projects on GitHub:
+...
+
+
+*(Last updated: December 2023.)*
