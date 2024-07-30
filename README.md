@@ -23,7 +23,6 @@ If you are interested in connecting via LinkedIn, send me a PM!
 Personal projects on GitHub:
 - 2023 [DBDIE ML](https://github.com/trOOnies/dbdie_ml) (regularly updated): Info extraction library for Dead By Daylight's end card of a (finished) match.
   - Take into account that I'm using many repos for the same conceptual project, and I'm constantly cleaning and moving stuff around.
-- 2023 [Persephone Books](https://github.com/trOOnies/persephone_books) (currently abandoned): Book inventory tool I coded for my SO's book collection. 📚
 
 Course projects on GitHub:
 - 2023 [Recommender System](https://github.com/trOOnies/recommender_system): Project for ITBA's MLOps course, targeted at Data Scientists that already have DS experience but less in MLOps.
