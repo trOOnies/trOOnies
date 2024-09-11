@@ -1,12 +1,12 @@
-*(Last updated: July 2024.)*
+*(Last updated: September 2024.)*
 
 Hello there! I'm Facundo, welcome to my GitHub page.
 - 🌎 I'm a Data Scientist from Argentina [he/him]. I'm in my late 20s.
 - 👨‍🎓 I am actually an [Industrial Engineer](https://www.itba.edu.ar/en/undergraduate-courses/industrial-engineering/) with a greater orientation on Business than a typical IE degree. I graduated from Buenos Aires' [ITBA](https://www.itba.edu.ar/en/) (5-year-long degree, equivalent to a BEng & MEng).
 - 🐍 I code in Python. I regularly use Google Cloud Platform for MLE, and I also worked with AWS SageMaker. At the moment I'm maining FastAPI, LangChain and Gradio.
-- 🔨 Other tools I used: Docker, MLflow, Dagster, Airbyte+dbt, Jenkins
+- 🔨 Other tools I used: Docker, MLflow, Dagster, Airbyte+dbt, Jenkins.
 - 💼 Work experience (more recent first)
-  - DataArt (current): AI & ML Engineer for DataArt's clients.
+  - DataArt: AI & ML Engineer for DataArt's clients.
   - La Nacion Media Group: 1 year in a DS team. I developed and deployed different ML models for the MG's website, and built the code and service base we used for MLOps from the ground up on GCP. I regularly took a proactive approach on the future projects' pipeline and hiring interviews.
   - Santander (Bank) Technology: 2.5 years in ML areas, with focus on information extraction from documents. Used AWS, GitLab and OCP.
   - Accenture: 2 years in the Business Data Science area, where I participated on a different project every 3 to 5 months.
