@@ -8,6 +8,7 @@ Hello there! Welcome to my GitHub page.
 - 🐍 I code in Python. I regularly use Google Cloud Platform for MLE, and I also worked with AWS SageMaker. At the moment I'm maining FastAPI, LangChain and Gradio.
 - 🔨 Other tools I used: Docker, MLflow, Dagster, Airbyte + dbt, Jenkins, Airflow.
 - 💼 Work experience _(more recent first)_
+  - **IT Patagonia**: AI Engineer / Data Scientist for IT Patagonia's clients.
   - **DataArt**: AI&ML Engineer for DataArt's clients.
   - **La Nacion Media Group**: I developed and deployed different ML models for the MG's website, and built the code and service base we used for MLOps from the ground up on GCP. I regularly took a proactive approach on the future projects' pipeline and hiring interviews.
   - **Santander (Bank) Technology**: Information extraction from document files. Used AWS, GitLab and OCP.
